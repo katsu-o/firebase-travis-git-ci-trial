@@ -1,5 +1,5 @@
 {
   "projects": {
-    "master": $FIREBASE_PROJECT
+    "master": "travis-git-ci-trial-ko"
   }
 }
